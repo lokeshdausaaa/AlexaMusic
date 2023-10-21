@@ -1,11 +1,11 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
+# Copyright (C) 2021-2022 by Dausa_123@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
+# Kanged By © @Dausa_123
+# Rocks © @Shayari_Telegram
+# Owner Lokesh Dausa 
+# Dausa king
 # All rights reserved. © Alisha © Alexa © Yukki
 
 
